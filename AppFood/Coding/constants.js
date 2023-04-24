@@ -28,7 +28,7 @@ export const Github_Repository_Name = "Namaste-React";
 export const Github_API_User = "https://api.github.com/users/";
 
 // Social Media Links
-export const Linkedin_Link = "https://www.linkedin.com/in/DEEPAK1164/";
+export const Linkedin_Link = "https://www.linkedin.com/in/deepak-maurya-374222237/";
 export const Twitter_Link = "https://twitter.com/2001dkmaurya";
 export const Github_Link = "https://github.com/DEEPAK1164";
 export const Email_Link = "mailto:2001dkmaurya@gmail.com";
